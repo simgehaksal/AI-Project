@@ -1,0 +1,2 @@
+# Missionaries-and-Cannibals
+In this problem, three cannibals and three missionaries are travelling together and come to river that they must cross. There is just one boat on the right side of river, and it only holds two people at the same time. The problem is that if the number of cannibals on either bank is greater than the number of missionaries at any time, old habits will kick in and the outnumbered missionaries will be eaten. I have to solve the problem in good condition.
